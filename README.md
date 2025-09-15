@@ -67,9 +67,9 @@ With a strong foundation in **Docker, Kubernetes, and CI/CD pipelines**, I speci
 
 <div align="center">
   
-### 💡 "Securing & Automating the Future, One Deployment at a Time"  
+### 💡 "Automating Today, Securing Tomorrow"  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srthksahni&color=brightgreen&style=flat-square)  
-[![GitHub followers](https://img.shields.io/github/followers/srthksahni?label=Follow&style=social)](https://github.com/srthksahni)  
+[![GitHub followers](https://img.shields.io/github/followers/srthksahni?label=Follow&style=social)](https://github.com/sahni1)  
 
 </div>
