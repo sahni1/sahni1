@@ -13,10 +13,10 @@
 I'm **Sarthak Sahni**, an **Aspiring DevOps Engineer** with **hands-on experience in Cloud, DevOps, and Cybersecurity**.  
 With a strong foundation in **Docker, Kubernetes, and CI/CD pipelines**, I specialize in delivering **secure and scalable solutions** while applying security best practices for robust application delivery.  
 
-- 🔭 Currently working as **Associate Software Engineer – Cloud & Automation @ Sunfox Technologies**  
-- 🌱 Learning and growing in **DevOps, Cloud Security, and Automation**  
+- 🔭 Currently working as **Associate Software Engineer – Cloud & Automation**  
+- 🌱 Always learning about **emerging technologies and best practices**
 - 👯 Open to collaborating on **Cloud, DevOps, and Cybersecurity projects**  
-- 💬 Ask me about **Docker, Jenkins, AWS, Vulnerability Scanning, and Python**  
+- 💬 Ask me about **Docker, Jenkins, AWS, Cybersecurity, and Terraform**  
 - 🏆 Hackathon Winner – **1st Place (Inter-college Hackathon)**  
 - 🎖️ **Certified Ethical Hacker (CEH v12)**  
 
@@ -27,7 +27,7 @@ With a strong foundation in **Docker, Kubernetes, and CI/CD pipelines**, I speci
 ### **Languages & Frameworks**  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node-js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
