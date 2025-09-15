@@ -45,24 +45,11 @@ With a strong foundation in **Docker, Kubernetes, and CI/CD pipelines**, I speci
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srthksahni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srthksahni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srthksahni&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
-
 ## 🏆 Achievements  
 
 - 🥇 **1st Place – Inter-college Hackathon**  
-- 🎖️ **Certified Ethical Hacker (CEH v12)** – EC-Council  
+- 🎖️ **Certified Ethical Hacker (CEH v12)** – EC-Council
+    
 
 ---
 
@@ -70,8 +57,8 @@ With a strong foundation in **Docker, Kubernetes, and CI/CD pipelines**, I speci
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthaksahni/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srthksahni)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthaksahni17/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahni1)  
 [![Email](https://img.shields.io/badge/Email-srthksahni@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srthksahni@gmail.com)  
 
 </div>
